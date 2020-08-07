@@ -1,0 +1,9 @@
+C:\repos\Generator\bin\Debug\netstandard2.0\Generator.deps.json
+C:\repos\Generator\bin\Debug\netstandard2.0\Generator.dll
+C:\repos\Generator\bin\Debug\netstandard2.0\Generator.pdb
+C:\repos\Generator\obj\Debug\netstandard2.0\Generator.AssemblyInfoInputs.cache
+C:\repos\Generator\obj\Debug\netstandard2.0\Generator.AssemblyInfo.cs
+C:\repos\Generator\obj\Debug\netstandard2.0\Generator.csproj.CoreCompileInputs.cache
+C:\repos\Generator\obj\Debug\netstandard2.0\Generator.dll
+C:\repos\Generator\obj\Debug\netstandard2.0\Generator.pdb
+C:\repos\Generator\obj\Debug\netstandard2.0\Generator.csprojAssemblyReference.cache
